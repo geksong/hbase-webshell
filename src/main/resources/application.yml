@@ -1,0 +1,3 @@
+hbase:
+  zookeeper:
+    address: "hbase-docker:2181"

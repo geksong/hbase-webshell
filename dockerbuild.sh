@@ -1,0 +1,1 @@
+docker build --build-arg JAR_FILE=hbase-webshell-0.0.1-SNAPSHOT.jar -t org.sixpence.hbase-webshell:0.0.1-SNAPSHOT .
