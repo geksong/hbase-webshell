@@ -8,9 +8,9 @@
     <!--生成覆盖率报告的路径-->
     <property name="reportfolderPath" value="./target/report/"/>
     <!--远程tomcat服务或者应用的ip地址-->
-    <property name="server_ip" value="127.0.0.1"/>
+    <property name="server_ip" value="172.18.0.3"/>
     <!--前面配置的远程tomcat服务或者应用打开的端口，要跟上面配置的一样-->
-    <property name="server_port" value="18088"/>
+    <property name="server_port" value="8888"/>
     <!--源代码路径-->
     <property name="checkOrderSrcpath" value="./src/main/java" />
     <!--.class文件路径-->
